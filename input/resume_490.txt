@@ -1,0 +1,50 @@
+sr network engineer summary bilingual network engineer offering indepth understanding infrastructure area particularly network design implementation optimization wired wireless network detailoriented selfstarter demonstrated success initiating tracking reporting closing project certification cct data center ccnp ccna mcse security network skill router cisco series asr series switch cisco series nexus load balancer cisco cs network wan optimization cisco waas ppp multilink routing ospf eigrp bgp pbr route filtering redistribution summarization static routing switching vlan vtp stp pvst rpvst inter vlan routing multi layer switching multicast operation layer switch ether channel transparent bridging lan ethernet fast ethernet gigabit ethernet fddi cddi token ring atm lan emulation wan leased line ppp hdlc channelized link fiber optic circuit frame relay isdn load balancing various feature service io feature hsrp glbp irdp nat snmp syslog ntp dhcp cdp dns tftp ftp management ip telephony ip telephony utilizing cisco router fxofxse pri call manager publisher subscriber aaa architecture tacacs radius cisco ac security firewall cisco asa firewall ipsec ssl vpns ipsids dmz setup cbac cisco nac acl io firewall feature io setup security feature juniper ex ex ex series vpn remote vpn site site vpn dmvpn wireless site assessment using airmagnet ekahua adaptor installation configuration maintenance palo alto firewall work experience sr network engineer sep jul company name city state implementation vlans intervlan communication implementation hsrp
+vrrp glbp redundant routing protocol configuration mpls bgp
+eigrp installation
+configuration layer switching infrastructure installation
+configuration mpls wan router cisco call manager
+unity connection version administration cisco call manager
+unity connection operating system upgrade installation
+tacacs configuration
+administration network device using authentication authorization
+accounting manage incident change
+management project system center service manager monitor active directory
+server cisco network device system center operation
+manager implementation
+management cisco prime network control system wireless network implementation
+management cisco mobility service engine wireless network sr network engineer nov aug company name city state responsible maintaining network
+user
+experienced troubleshooting network
+issue layer
+experienced vlan assignment cisco
+brocade device mab configuration
+experienced troubleshooting issue
+cisco brocade switchesrouters
+experienced trouble shooting spanning tree
+issue may occur hour
+responsible setup install switch
+router includes configuration hardening cisco brocade
+responsible activating user printer vtc
+port troubleshooting link inactivity daily basis well issue
+mab issue portchanneling linkaggregation vtp issue rsa key
+issue used knowledge base find solution issue
+arose customer network using proseries network program running
+window server window server
+communicated team member successfully
+keep customer downtime minimum
+experienced troubleshooting network
+issue layer
+experienced vlan assignment cisco
+brocade device mab configuration responsible setup install switch
+router includes configuration hardening cisco network engineer feb aug company name city state connected switch using trunk link ether channel responsible maintenance utilization vlans spanningtree hsrp vtp switched multilayer
+backbone catalyst switch implemented redundant load balancing technique internet application switch router support network technician require training support problem resolution including performing
+diagnostics configuring network device
+used network monitoring tool manage monitor troubleshoot network
+configured cisco io feature set nat simple network management protocol snmp network
+security implementation
+received inbound call technical nature independently resolved customer complaint concern
+inquiry regarding internet connection
+troubleshoot wide range technical support issue connectivity problem authentication
+connection speed email configuration loss synchronization
+experience new employee mentoring training coaching education mba london school accountancy management city united kingdom pgdms management london school accountancy management city uk associate science science rizvi college art science commerce city state india personal information authorized work
+employer place birth hyderabad india date birth november present resident birmingham al sex male status married hobby international travel driving cooking movie music dinning
